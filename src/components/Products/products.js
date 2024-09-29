@@ -20,7 +20,7 @@ const fantasyHorrorBooks = [
         title: "Juego de Tronos",
         description: "Primera entrega de la saga 'Canción de Hielo y Fuego', llena de intrigas y luchas por el poder.",
         price: "$24.99",
-        imagen: "https://images-na.ssl-images-amazon.com/images/I/51Ll6pCVqxL._SX331_BO1,204,203,200_.jpg",
+        imagen: "https://images.cdn2.buscalibre.com/fit-in/360x360/a9/38/a938366ae95be88c1c6350f7a727026a.jpg",
         category: "Fantasía",
     },
     {
@@ -28,7 +28,7 @@ const fantasyHorrorBooks = [
         title: "It",
         description: "Novela de terror que narra los enfrentamientos de un grupo de amigos con una entidad maligna.",
         price: "$22.99",
-        imagen: "https://images-na.ssl-images-amazon.com/images/I/41M9RzV+V-L._SX331_BO1,204,203,200_.jpg",
+        imagen: "https://images.cdn1.buscalibre.com/fit-in/360x360/c8/e8/c8e8567ca80b4bb032e5390c7e1b012d.jpg",
         category: "Terror",
     },  
     {   
@@ -44,7 +44,7 @@ const fantasyHorrorBooks = [
         title: "Frankenstein",
         description: "La icónica novela sobre el científico Victor Frankenstein y su monstruosa creación.",
         price: "$16.99",
-        imagen: "https://images-na.ssl-images-amazon.com/images/I/41yQd0W6qML._SX311_BO1,204,203,200_.jpg",
+        imagen: "https://cdn.prod.website-files.com/6034d7d1f3e0f52c50b2adee/625452f43a8fa502af2b8a14_6034d7d1f3e0f525c6b2b272_frankenstein-mary-shelley-editorial-alma.jpeg",
         category: "Terror",
     },  
     {   
@@ -52,7 +52,7 @@ const fantasyHorrorBooks = [
         title: "La Sombra sobre Innsmouth",
         description: "Una aterradora historia corta de H.P. Lovecraft sobre horrores cósmicos.",
         price: "$12.99",
-        imagen: "https://images-na.ssl-images-amazon.com/images/I/41e1P+O3t5L._SX331_BO1,204,203,200_.jpg",
+        imagen: "https://images.cdn2.buscalibre.com/fit-in/360x360/17/60/1760689cf1faf34cc5952245d5be8dae.jpg",
         category: "Terror",
     },  
     {   
@@ -60,7 +60,7 @@ const fantasyHorrorBooks = [
         title: "Crónicas de Narnia: El León, la Bruja y el Ropero",
         description: "El primer libro de la serie de fantasía, donde cuatro niños descubren un mundo mágico.",
         price: "$17.99",
-        imagen: "https://images-na.ssl-images-amazon.com/images/I/51jNORv6nQL._SX331_BO1,204,203,200_.jpg",
+        imagen: "https://images.cdn1.buscalibre.com/fit-in/360x360/3e/d1/3ed17c865085a0e86f93037e16d20257.jpg",
         category: "Fantasía",
     },  
     {   
@@ -68,7 +68,7 @@ const fantasyHorrorBooks = [
         title: "El Resplandor",
         description: "Una novela de terror psicológico que sigue la espiral de locura de Jack Torrance en un hotel aislado.",
         price: "$19.99",
-        imagen: "https://images-na.ssl-images-amazon.com/images/I/51qVz56I5CL._SX331_BO1,204,203,200_.jpg",
+        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxMZbnlAmDMT2Cj4AnarrDdWI6VYMupvnNQ&s",
         category: "Terror",
     },  
     {   
@@ -80,3 +80,5 @@ const fantasyHorrorBooks = [
         category: "Fantasía",
     },
 ];
+
+export default fantasyHorrorBooks;

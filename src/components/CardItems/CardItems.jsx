@@ -18,7 +18,7 @@ function CardItems(props) {
 					<div className="card-buttons">
 						<Link
 							className="btn btn-primary btn-lg"
-							to={`/preEntrega2-Beltran/item/${props.id}`}>
+							to={`/preentrega2-beltran/item/${props.id}`}>
 							Ver más
 						</Link>{" "}
 						<Button variant="outline-primary">

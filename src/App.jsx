@@ -13,19 +13,19 @@ function App() {
 			<Routes>
 				<Route
 					main
-					path="/preEntrega2-Beltran/"
+					path="/preentrega2-beltran/"
 					element={<ItemListContainer />}
 				/>
 				<Route
-					path="/preEntrega2-Beltran/contacto"
+					path="/preentrega2-beltran/contacto"
 					element={<Contacto />}
 				/>
 				<Route
-					path="/preEntrega2-Beltran/item/:id"
+					path="/preentrega2-beltran/item/:id"
 					element={<DetailedCard />}
 				/>
 				<Route
-					path="/preEntrega2-Beltran/category/:idCategory"
+					path="/preentrega2-beltran/category/:idCategory"
 					element={<ItemListContainer />}
 				/>
 			</Routes>
